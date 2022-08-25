@@ -1,0 +1,20 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Archivos que muestran las mejoras a Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangeltr/cursoEcmaScript.git"
+  },
+  "author": "Angel Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangeltr/cursoEcmaScript/issues"
+  },
+  "homepage": "https://github.com/jangeltr/cursoEcmaScript#readme",
+  "type":"module"
+}
